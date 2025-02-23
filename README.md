@@ -4,4 +4,4 @@ This Repository consists of Interactive Dashboards that have been created using 
 
 Following are the Screenshots :
 
-![Dashboard1](Dashboards/Dashboard1s)
+![Dashboard1](Dashboards/Dashboard1.png)
